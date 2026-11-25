@@ -13,9 +13,9 @@
     <caseMergeInLightning>false</caseMergeInLightning>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
     <defaultCaseFeedLayoutOn>false</defaultCaseFeedLayoutOn>
-    <defaultCaseOwner>sshaik@copado.com.exe.uat-sfp</defaultCaseOwner>
+    <defaultCaseOwner>sshaik@copado.com.exe.int-sfp</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>sshaik@copado.com.exe.uat-sfp</defaultCaseUser>
+    <defaultCaseUser>sshaik@copado.com.exe.int-sfp</defaultCaseUser>
     <emailToCase>
         <enableE2CAdvancedSecurity>false</enableE2CAdvancedSecurity>
         <enableE2CAttachmentAsFile>false</enableE2CAttachmentAsFile>

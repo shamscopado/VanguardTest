@@ -21,7 +21,11 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>UAT__c</field>
+                <field>Training__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>INT__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

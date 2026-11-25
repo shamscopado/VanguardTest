@@ -1,14 +1,14 @@
 /**
- * An apex page controller that exposes the change password functionality
+ * An apex page controller that exposes the change password from dev 2 functionality
  */
 public with sharing class ChangePasswordController {
     public String oldPassword {get; set;}
     public String newPassword {get; set;}
     public String verifyNewPassword {get; set;}        
-    //UAT changes
+    //Merge Conflict
     public PageReference changePassword() {
         return Site.changePassword(newPassword, verifyNewPassword, oldpassword);    
     }     
     
-    public ChangePasswordController() {}
+   	public ChangePasswordController() {}
 }
